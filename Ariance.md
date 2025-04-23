@@ -83,10 +83,10 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 © 2025 Jonathan Engle
 
 ---
-Special thanks to Curtis Killingsworth and illustrator Thomas Voss.
+Special thanks to collaborator Curtis Killingsworth, illustrator and collaborator Thomas Voss, and host Jacob Spero.
 
 With appreciation to:
-Adam Azavedo, Jacob Spero, Andrew Buckwell, Rusty Ort, ChatGPT, microsoft Copilot, Gemini, and Meta -for feedback, inspiration, collab energy.
+Adam Azavedo, Andrew Buckwell, Rusty Ort, ChatGPT, microsoft Copilot, Gemini, and Meta -for feedback, inspiration, collab energy.
 
 Attribution Note:
-Thomas Voss introduced the idea of "rate at which space expands or contracts" in connection to Ariance.
+Thomas introduced the idea of "rate at which space expands or contracts" variation in connection to Ariance & Phasic Entropy.
