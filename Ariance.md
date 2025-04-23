@@ -1,8 +1,3 @@
-Yes—that’s looking really solid. The tone is respectful, clear, and grounded, while keeping all the important technical expressions intact. Just a few light edits for polish, flow, and a couple of typos (like "themvas") if you're open to it:
-
-
----
-
 Ariance: A Dynamic Energy-Motion Coherence Principle
 Creator: Jonathan Engle — aided by ChatGPT
 Initially created: January © 2025
