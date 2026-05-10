@@ -68,8 +68,6 @@ A = E² × f(ΔS)
 First derivative:
 dA/d(ΔS) = -E² × [k × (ΔS)^(k - 1)] / [ (1 + (ΔS)^k)^2 ]
 
-Second derivative:
-d²A/d(ΔS)² = E² × [ k × (ΔS)^(k - 2) × (k + 1 - (ΔS)^k) ] / [ (1 + (ΔS)^k)^3 ]
 
 These show how fast Ariance is changing, and help us understand how the system reacts to coherence changes.
 
@@ -83,10 +81,10 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 © 2025 Jonathan Engle
 
 ---
-Special thanks to collaborator Curtis Killingsworth, illustrator and collaborator Thomas Voss, and host Jacob Spero.
+Special thanks to collaborator Curtis Killingsworth, illustrator and collaborator Thomas Foss, and host Jacob Spero.
 
 With appreciation to:
-Adam Azavedo, Andrew Buckwell, Rusty Ort, ChatGPT, microsoft Copilot, Gemini, and Meta -for feedback, inspiration, collab energy.
+Andrew Buckwell, Rusty Ort, ChatGPT, microsoft Copilot, Gemini, and Meta -for feedback, inspiration, collab energy.
 
 Attribution Note:
 Thomas introduced the idea of "rate at which space expands or contracts" variation in connection to Ariance & Phasic Entropy.
